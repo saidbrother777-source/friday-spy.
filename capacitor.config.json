@@ -1,0 +1,9 @@
+{
+  "appId": "com.fridayspy.game",
+  "appName": "جاسوس يوم الجمعة",
+  "webDir": "www",
+  "backgroundColor": "#060b1f",
+  "android": {
+    "backgroundColor": "#060b1f"
+  }
+}
